@@ -1,0 +1,5 @@
+Game/Assets/ExternalDependencyManager/** linguist-vendored
+Game/Assets/GameAnalytics/** linguist-vendored
+Game/Assets/Plugins/** linguist-vendored
+Game/Assets/Scripts/DOTween/** linguist-vendored
+Game/Assets/JsonDotNet/** linguist-vendored
